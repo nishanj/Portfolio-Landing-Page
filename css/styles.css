@@ -31,8 +31,16 @@ li{
 }
 footer{
   text-align: center;
+  column-rule-width: medium;
+  color: purple;
 }
 h4{
   color: blue;
   padding-top: 20px;
+}
+.p{
+  font-family: fantasy;
+  font-style: normal;
+  font-stretch: normal;
+  font-size: 14px;
 }
