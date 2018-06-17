@@ -20,9 +20,19 @@ h4.page{
 }
 li{
   font-family: monospace;
-  font-style: italic;
+  font-style: oblique;
 }
 .ho{
   font-size-adjust: auto;
   color; blue;
+}
+.pages{
+
+}
+footer{
+  text-align: center;
+}
+h4{
+  color: blue;
+  padding-top: 20px;
 }
