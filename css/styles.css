@@ -47,3 +47,7 @@ h4{
 .class{
   color: darkblue;
 }
+h2{
+  text-align: left;
+  column-rule-color: oblique;
+}
