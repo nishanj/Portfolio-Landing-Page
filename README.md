@@ -6,5 +6,5 @@
 ##https://github.com/nishanj/private-island-resort.git
 ##https://github.com/nishanj/my-first-webpage.git
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {2018}
+*Determine the license under which this application can be used.  See below for more details on licensing.
+Copyright (c) 2018
