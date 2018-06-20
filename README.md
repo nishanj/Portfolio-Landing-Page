@@ -1,14 +1,11 @@
-#Project Name: Portfolio-Landing-Page
-#Author Name: Joseph Obure
-#### This is Portfolio of landing Page, it details my Education Background, skills and Hobbies/Interests i do have as new programmer. it's an overview site, 16 June 2018
+#PROJECT NAME: PORTFOLIO LANDING PAGE
+#Author Name: JOSEPH OBURE
+####
 ## Setup/Installation Requirements
 * no Setup Requirments need. only thing is only access to internet and device to view over the project page
-##https://nishanj.github.io/my-first-webpage/
-##https://nishanj.github.io/private-island-resort/
-##https://nishanj.github.io/pets/
-<<<<<<< HEAD
-=======
-##https://nishanj.github.io/Portfolio-Landing-Page/
->>>>>>> d978598b1e8f64005bd9c3cda6f9177caa1cee59
-### License
+## https://nishanj.github.io/my-first-webpage/
+## https://nishanj.github.io/private-island-resort/
+## https://nishanj.github.io/pets/
+## https://nishanj.github.io/Portfolio-Landing-Page/
+###
 Copyright (c) 2018
